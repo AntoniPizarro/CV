@@ -39,6 +39,17 @@
 - ### FP Grado Superior Dual Desarrollador de Aplicaciones Web - 2020 (cursando)
     `CEIP Borja Moll, Palma de Mallorca, España`
 
+## Formación personal
+
+- Conocimientos medios en el desarrollo de videojuegos en Unity
+    - Agentes con inteligencia artificial
+    - Colision de mallas
+    - Scripting correlacionado
+    - Interfaz gráfica
+    - Conexión a base de datos
+    - Controladores
+    - Animadores
+
 ## Idiomas
 
 - Lengua materna: español / catalán
